@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\Administrateur\documents\visual studio 2015\Projects\MVC_PJ_08032020\MVC_PJ_08032020\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\Administrateur\documents\visual studio 2015\Projects\MVC_PJ_08032020\MVC_PJ_08032020\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\Administrateur\documents\visual studio 2015\Projects\MVC_PJ_08032020\MVC_PJ_08032020\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
